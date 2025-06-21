@@ -1,0 +1,1 @@
+# Desafio-Monitoramento-Inteligente-com-Azure
